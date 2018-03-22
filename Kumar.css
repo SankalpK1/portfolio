@@ -1,0 +1,45 @@
+.containerSSS {
+    background-color: rgb(255,255,255);
+}
+.incontainerSSS {
+    color: rgb(255,255,255);
+    background-color: rgb(0,0,0);
+}
+.textSSS {
+    font-family:courier
+}
+.rectangleSSS {
+    height: 5px;
+    width: 1200px;
+    background-color: coral;
+}
+.fontsizelistSSS {
+    font-size: 1.25em;
+}
+.fontsizelistXSSS {
+    font-size: 1.15em;
+}
+.rectangleXSSS {
+    height: 5px;
+    width: 600px;
+    background-color: coral;
+}
+.rectangleTSSS {
+    height: 5px;
+    width: 275px;
+    background-color: coral;
+}
+.MarginLSSS {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.borderSSS {
+    border-style: solid;
+}
+.MarginLTPSSS {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.MarginXFHSSS {
+    margin-left: 300px;
+}
